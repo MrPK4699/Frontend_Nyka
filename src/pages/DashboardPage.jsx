@@ -3,7 +3,7 @@ import React from 'react';
 import AddProductModal from '../components/dashboard/AddProductModal';
 import ProductTable from '../components/dashboard/ProductTable';
 import EditProductModal from '../components/dashboard/EditProductModal';
-import Filteration from '../components/dashboard/Filteration';
+// import Filteration from '../components/dashboard/Filteration';
 const DashboardPage = () => {
   return (
     <div>
