@@ -8,7 +8,7 @@ const DashboardPage = () => {
   return (
     <div>
       <h2>Dashboard Page</h2>
-      <Filteration/>
+      {/* <Filteration/> */}
       <AddProductModal />
       <ProductTable />
       <EditProductModal />
